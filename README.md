@@ -6,7 +6,7 @@
 
 ![](https://visitors-badge.glitch.me/badge?page_id=Xx-Mohit-xX.Xx-Mohit-xX) 
 <br/> 
-![Discord](https://discord.c99.nl/widget/theme-3/753974636508741673.png) 
+![Discord](https://discord.c99.nl/widget/theme-2/753974636508741673.png) 
 
 
 - 📫 Reach me at **[mohitkoul841@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohitkoul841@gmail.com)**
