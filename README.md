@@ -8,18 +8,16 @@
 ![Discord](https://discord.c99.nl/widget/theme-2/753974636508741673.png) 
 
 
-<h1 align="center">🌙 **Information:**</h1>
+<h1 align="center">🌙 Information:</h1>
  
-<p align="center">
-- 🔭 I’m currently working on **Open Source Projects and Discord Bots.** 
-- 🌱 I’m currently learning **React.JS and C++.** 
-- 👯 I’m looking to collaborate on **More Open Source Projects.** 
-- 🤔 I’m looking for help with **Data Structures and DP stuff.** 
-- 💬 Ask me about Anything related to **Tech and Anime.** 
-- 📫 Contact me at : **mohitkoul841@gmail.com.** 
-- 😄 Pronouns : **He/Him.** 
-- ⚡ Fun fact : **JavaScript >>>> Python.**
-</p>
+<p align="center">- 🔭 I’m currently working on **Open Source Projects and Discord Bots.**</p>
+<p align="center">- 🌱 I’m currently learning **React.JS and C++.**</p> 
+<p align="center">- 👯 I’m looking to collaborate on **More Open Source Projects.**</p> 
+<p align="center">- 🤔 I’m looking for help with **Data Structures and DP stuff.** </p>
+<p align="center">- 💬 Ask me about Anything related to **Tech and Anime.** </p>
+<p align="center">- 📫 Contact me at : **mohitkoul841@gmail.com.** </p>
+<p align="center">- 😄 Pronouns : **He/Him.** </p>
+<p align="center">- ⚡ Fun fact : **JavaScript >>>> Python.** </p>
 
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
