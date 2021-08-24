@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xx-Mohit-xX&style=flat-square" alt="Xx-Mohit-xX" /> </p>
 
+
+![](https://visitors-badge.glitch.me/badge?page_id=Xx-Mohit-xX.Xx-Mohit-xX) 
+<br/> 
+![Discord](https://discord.c99.nl/widget/theme-3/552814506070507531.png) 
+
+
 - 📫 Reach me at **[mohitkoul841@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohitkoul841@gmail.com)**
 <br>
 <h1 align="center">🛠️ Tools with which i have spent sometime</h1>
