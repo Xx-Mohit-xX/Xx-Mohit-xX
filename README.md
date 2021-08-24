@@ -1,10 +1,11 @@
 <h1 align="center">Hey 👋, I'm Mohit</h1>
-![](https://visitors-badge.glitch.me/badge?page_id=Xx-Mohit-xX.Xx-Mohit-xX) 
-<br/> 
-![Discord](https://discord.c99.nl/widget/theme-2/753974636508741673.png) 
 <h3 align="center">I'm an avid front end developer who is also interested in Discord bot development!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xx-Mohit-xX&style=flat-square" alt="Xx-Mohit-xX" /> </p>
+
+![](https://visitors-badge.glitch.me/badge?page_id=Xx-Mohit-xX.Xx-Mohit-xX) 
+<br/> 
+![Discord](https://discord.c99.nl/widget/theme-2/753974636508741673.png) 
 
 - 📫 Reach me at **[mohitkoul841@gmail.com](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=mohitkoul841@gmail.com)**
 <br>
