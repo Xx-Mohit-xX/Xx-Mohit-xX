@@ -25,8 +25,9 @@
 <details>
    <h1 align="center">📈 GitHub Statistics</h1> 
 
-![GitHub Statistics](https://metrics.lecoq.io/Xx-Mohit-xX?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich) 
-![Profile Views](https://komarev.com/ghpvc/?username=Xx-Mohut-xX&color=9c84ef) 
+   ![GitHub Statistics](https://metrics.lecoq.io/Xx-Mohit-xX?template=classic&followup=1&languages=1&config.timezone=Europe%2FZurich) 
+   
+   ![Profile Views](https://komarev.com/ghpvc/?username=Xx-Mohut-xX&color=9c84ef) 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Xx-Mohit-xX" alt="Xx-Mohit-xX" /></p>
 </details
 <h1 align="center">🤝 Get in touch!</h1>
