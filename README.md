@@ -1,12 +1,9 @@
 <h1 align="center">Hey 👋, I'm Mohit</h1>
 <h3 align="center">I'm an avid front end developer who is also interested in Discord bot development!</h3>
-
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Xx-Mohit-xX&style=flat-square" alt="Xx-Mohit-xX" /> </p>
-
-![](https://visitors-badge.glitch.me/badge?page_id=Xx-Mohit-xX.Xx-Mohit-xX) 
-<br/> 
-![Discord](https://discord.c99.nl/widget/theme-2/753974636508741673.png) 
-
+<br>
+<p align="center"> <img src="https://discord.c99.nl/widget/theme-2/753974636508741673.png" alt="Xx-Mohit-xX" /> </p>
 
 <h1 align="center">🌙 Information:</h1>
  
@@ -30,7 +27,6 @@
 </details
 <h1 align="center">🤝 Get in touch!</h1>
 <p align="center">
-<a href="https://instagram.com/mohitkoul841" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174855.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://discord.com/users/753974636508741673" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Xx-Mohit-xX"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
